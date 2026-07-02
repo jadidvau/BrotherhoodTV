@@ -1,0 +1,6 @@
+{
+  "name": "BrotherHood TV",
+  "description": "A premium sports and cinema IPTV player designed for authorized and custom live streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
